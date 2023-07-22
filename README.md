@@ -27,13 +27,19 @@ Some examples are shown below (using mock data):
 
 ### Joypad
 
+(click to show full-size on separate tab)
+
 ![Joypad](img/PCFX_Joypad.JPG)
 
 ### Mouse
 
+(click to show full-size on separate tab)
+
 ![Mouse](img/PCFX_Mouse.JPG)
 
 ## Multitap
+
+(click to show full-size on separate tab)
 
 ![Multitap](img/PCFX_Multitap.JPG)
 
